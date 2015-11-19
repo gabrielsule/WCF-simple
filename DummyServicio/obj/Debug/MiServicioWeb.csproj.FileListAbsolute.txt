@@ -1,0 +1,6 @@
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\bin\MiServicioWeb.dll.config
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\bin\MiServicioWeb.dll
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\bin\MiServicioWeb.pdb
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\obj\Debug\MiServicioWeb.csprojResolveAssemblyReference.cache
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\obj\Debug\MiServicioWeb.dll
+c:\users\gsule\documents\visual studio 2013\Projects\MiServicioWeb\MiServicioWeb\obj\Debug\MiServicioWeb.pdb
