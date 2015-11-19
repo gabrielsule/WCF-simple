@@ -1,16 +1,16 @@
 Ejemplo de WCF en C#
 ======
-**WCF-ejemplo** es un muy sencillo codigo para crear nuestra primera aplicacion is a software for things. Short description here.de WCF en C# que nos devuelve un JSon
+**WCF-simple** es un muy sencillo codigo para crear nuestra primera aplicacion is a software for things. Short description here.de WCF en C# que nos devuelve un JSon
 
 ## Download
-* [Version 1.0](https://github.com/gabrielsule/WCF-ejemplo/archive/master.zip)
+* [Version 1.0](https://github.com/gabrielsule/WCF-simple/archive/master.zip)
 
 ##Requirementos
 .net framework 4.0 / 4.5
 
 ## Usage
 ```
-$ git clone https://github.com/gabrielsule/WCF-ejemplo.git
+$ git clone https://github.com/gabrielsule/WCF-simple.git
 ```
 
 ## Como invocar el servicio
