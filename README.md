@@ -4,10 +4,23 @@ Ejemplo de WCF en C#
 
 ## Download
 * [Version 1.0](https://github.com/gabrielsule/WCF-ejemplo/archive/master.zip)
-* Other Versions
+
+##Requirementos
+.net framework 4.0 / 4.5
 
 ## Usage
-```$ git clone https://github.com/gabrielsule/WCF-ejemplo.git
+```
+$ git clone https://github.com/gabrielsule/WCF-ejemplo.git
+```
+
+## Como invocar el servicio
+```
+http://localhost:45558/Servicio.svc/saludo/Johana
+```
+
+## resultado
+```
+{"SaludoResult":"Johana te saludamos desde WCF"}
 ```
 
 ## License 
@@ -15,13 +28,6 @@ Ejemplo de WCF en C#
 
 ## Version 
 * Version 1.0
-
-## How-to use this code
-```http://localhost:45558/Servicio.svc/saludo/Johana
-```
-
-```{"SaludoResult":"Johana te saludamos desde WCF"}
-```
 
 ## Contact
 #### Developer/Company
